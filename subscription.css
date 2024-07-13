@@ -1,0 +1,18 @@
+.channel-pic{
+    height: 136px;
+    width: 180px;
+}
+.img{
+    height: 120px;
+    width: 130px;
+    border-radius: 65px;
+    margin-left: 110px; 
+}
+.subscription{
+    display: grid;
+    grid-template-rows: 420px 1fr ;
+}
+.main-div{
+    background-color: rgb(219, 136, 27);
+    padding-right: 800px;
+}
